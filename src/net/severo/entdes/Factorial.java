@@ -1,7 +1,7 @@
 package net.severo.entdes;
 /**
  * 
- * @author Profesor
+ * @author Alejandro Sancho Imbernon
  *
  */
 public class Factorial {
